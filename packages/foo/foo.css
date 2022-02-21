@@ -1,0 +1,3 @@
+div#app > div {
+  @apply bg-red-500;
+}
